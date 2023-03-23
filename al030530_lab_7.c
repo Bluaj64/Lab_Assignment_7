@@ -34,7 +34,7 @@ void printArray(int * numArr)
     }
 }
 
-
+//Bubble sort algorithm (stops iterating after array is sorted)
 void bubbleSort(int * numArr, int * ptr, int n)
 {
   int tmp, counter;
